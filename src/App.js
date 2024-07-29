@@ -453,7 +453,7 @@ function App() {
           alt="Logo"
           style={logoStyle}
         />
-        <h1 style={titleStyle}>AIBM Interview Schedule</h1>
+        <h1 style={titleStyle}>2024 AFS Audit Interview Schedules for AIBM</h1>
       </header>
       <nav style={navigationStyle}>
         <button onClick={prevDay} style={buttonStyle}>
