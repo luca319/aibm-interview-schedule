@@ -58,17 +58,6 @@ const interviews = [
     teamsLink:
       "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdhNDMxODAtM2M0Ni00NTViLWI1ZDAtMDgzMDM4N2ZjMjY0%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%22b253f2f1-a78d-4903-8a92-3f98323ebc5d%22%7d",
   },
-  {
-    date: "2024-08-05",
-    schedule: 3,
-    title: "Meeting w/ Corporate Management Dept",
-    time: "15:00 - 16:00",
-    interviewer: "AFSMAD: Mr. Inoue, ACSM: Ms. Fara, Ms. Chandni",
-    interviewee: "Mr. Ken Tanaka (GM)",
-    isOnline: true,
-    teamsLink:
-      "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDg1OTBlOWEtNTczNy00YjQ0LWEzMTctMmYyM2U5OWQ5MDUz%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%227b4fc21e-8713-4ac5-bcfd-faaa43d02a4d%22%7d",
-  },
   // August 6, 2024 (Real Data)
   {
     date: "2024-08-06",
@@ -171,6 +160,17 @@ const interviews = [
       "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdhNDMxODAtM2M0Ni00NTViLWI1ZDAtMDgzMDM4N2ZjMjY0%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%22b253f2f1-a78d-4903-8a92-3f98323ebc5d%22%7d",
   },
   // August 8, 2024 (Real Data)
+    {
+    date: "2024-08-08",
+    schedule: 5,
+    title: "Meeting w/ Corporate Management Dept",
+    time: "10:00 - 11:00",
+    interviewer: "AFSMAD: Mr. Inoue, ACSM: Ms. Fara, Ms. Chandni",
+    interviewee: "Mr. Ken Tanaka (GM)",
+    isOnline: true,
+    teamsLink:
+      "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDg1OTBlOWEtNTczNy00YjQ0LWEzMTctMmYyM2U5OWQ5MDUz%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%227b4fc21e-8713-4ac5-bcfd-faaa43d02a4d%22%7d",
+  },
   {
     date: "2024-08-08",
     schedule: 1,
