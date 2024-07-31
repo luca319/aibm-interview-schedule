@@ -98,7 +98,7 @@ const interviews = [
     title: "Meeting w/ Customer Management section",
     time: "15:00 - 16:00",
     interviewer: "ACSM: Ms. Chandni",
-    interviewee: "Mr. Wan Yunus (SM) (Physical),
+    interviewee: "Mr. Wan Yunus (SM) no link",
     isOnline: true,
     teamsLink:
       "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYzlkMDctNDJkYi00Y2IxLTllYjctYjRjMGQ1N2I3OWU0%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%2290f5645c-65fd-4541-b320-ba0814d02249%22%7d",
@@ -160,7 +160,7 @@ const interviews = [
       "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdhNDMxODAtM2M0Ni00NTViLWI1ZDAtMDgzMDM4N2ZjMjY0%40thread.v2/0?context=%7b%22Tid%22%3a%2221106e7a-134b-4466-9555-3543978c7550%22%2c%22Oid%22%3a%22b253f2f1-a78d-4903-8a92-3f98323ebc5d%22%7d",
   },
   // August 8, 2024 (Real Data)
-    {
+  {
     date: "2024-08-08",
     schedule: 5,
     title: "Meeting w/ Corporate Management Dept",
