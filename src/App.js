@@ -12,7 +12,7 @@ const interviews = [
     interviewee: "MD and all div/dept heads",
     isOnline: true,
     teamsLink:
-      "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVhZjM5MDgtMTdiZi00YjM2LTlmNGItNTNlOGFmYTUzNzhi%40thread.v2/0?context=%7b%22Tid%22%3a%222f5fc54c-f978-4bcb-afe9-",
+      "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVhZjM5MDgtMTdiZi00YjM2LTlmNGItNTNlOGFmYTUzNzhi%40thread.v2/0?context=%7b%22Tid%22%3a%222f5fc54c-f978-4bcb-afe9-a826a312c217%22%2c%22Oid%22%3a%225bd15d04-7da2-4f8e-926b-27eeb9184194%22%7d,
   },
   {
     date: "2024-08-05",
